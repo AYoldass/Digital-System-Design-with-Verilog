@@ -1,0 +1,7 @@
+Running: xsim.dir/find_sum_combinantional_tb_behav/xsimk.exe -simmode gui -wdb find_sum_combinantional_tb_behav.wdb -simrunnum 0 -socket 51031
+Design successfully loaded
+Design Loading Memory Usage: 7704 KB (Peak: 7704 KB)
+Design Loading CPU Usage: 30 ms
+Simulation completed
+Simulation Memory Usage: 8288 KB (Peak: 8288 KB)
+Simulation CPU Usage: 92 ms

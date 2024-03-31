@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/ahmet/Desktop/Digital System Design/LFSR32/LFSR32.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/ahmet/Desktop/Digital System Design/LFSR32/LFSR32.srcs/sim_1/new/lfsr32Bit_tb.v,1699868504,verilog,,,,top_tb,,,,,,,,
+C:/Users/ahmet/Desktop/Digital System Design/LFSR32/LFSR32.srcs/sources_1/new/lfsr32Bit.v,1699868142,verilog,,C:/Users/ahmet/Desktop/Digital System Design/LFSR32/LFSR32.srcs/sources_1/new/lfsr32_top.v,,lfsr,,,,,,,,
+C:/Users/ahmet/Desktop/Digital System Design/LFSR32/LFSR32.srcs/sources_1/new/lfsr32_top.v,1699869040,verilog,,C:/Users/ahmet/Desktop/Digital System Design/LFSR32/LFSR32.srcs/sim_1/new/lfsr32Bit_tb.v,,lfsr32_top,,,,,,,,
+C:/Users/ahmet/Desktop/Digital System Design/LFSR32/LFSR32.srcs/sources_1/new/lfsr_top.v,1699800340,verilog,,C:/Users/ahmet/Desktop/Digital System Design/LFSR32/LFSR32.srcs/sim_1/new/lfsr32Bit_tb.v,,lfsr_top,,,,,,,,

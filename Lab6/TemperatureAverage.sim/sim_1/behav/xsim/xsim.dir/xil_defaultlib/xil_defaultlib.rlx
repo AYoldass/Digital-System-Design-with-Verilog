@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage/TemperatureAverage.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage/TemperatureAverage.srcs/sim_1/new/fp_tb.v,1702210726,verilog,,,,FixedPointAverage_tb,,,,,,,,
+C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage/TemperatureAverage.srcs/sim_1/new/temperature_average_tb.v,1702280005,verilog,,,,temperature_average_tb,,,,,,,,
+C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage/TemperatureAverage.srcs/sim_1/new/testhbench.v,1701616994,verilog,,,,testbench,,,,,,,,
+C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage/TemperatureAverage.srcs/sources_1/new/fixed_point.v,1702240956,verilog,,C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage/TemperatureAverage.srcs/sim_1/new/fp_tb.v,,FixedPointAverage,,,,,,,,
+C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage/TemperatureAverage.srcs/sources_1/new/qadd.v,1701672899,verilog,,C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage/TemperatureAverage.srcs/sources_1/new/qdiv.v,,qadd,,,,,,,,
+C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage/TemperatureAverage.srcs/sources_1/new/qdiv.v,1701614815,verilog,,C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage/TemperatureAverage.srcs/sources_1/new/temp_avg.v,,qdiv,,,,,,,,
+C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage/TemperatureAverage.srcs/sources_1/new/temp_averager.v,1702723143,verilog,,C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage/TemperatureAverage.srcs/sim_1/new/temperature_average_tb.v,,temperature_average,,,,,,,,
+C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage/TemperatureAverage.srcs/sources_1/new/temp_avg.v,1701672330,verilog,,C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage/TemperatureAverage.srcs/sim_1/new/testhbench.v,,temp_avg,,,,,,,,

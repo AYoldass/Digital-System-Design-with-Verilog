@@ -1,0 +1,33 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Mon Dec 25 14:59:24 2023
+# Process ID: 3980
+# Current directory: C:/Users/ahmet/Desktop/4.sýnýf/Digital System Design/Sort_Memory_Separate
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11920 C:\Users\ahmet\Desktop\4.sýnýf\Digital System Design\Sort_Memory_Separate\Sort_Memory.xpr
+# Log file: C:/Users/ahmet/Desktop/4.sýnýf/Digital System Design/Sort_Memory_Separate/vivado.log
+# Journal file: C:/Users/ahmet/Desktop/4.sýnýf/Digital System Design/Sort_Memory_Separate\vivado.jou
+# Running On: DESKTOP-VTDBCS3, OS: Windows, CPU Frequency: 1190 MHz, CPU Physical cores: 4, Host memory: 8345 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/ahmet/Desktop/4.sýnýf/Digital System Design/Sort_Memory_Separate/Sort_Memory.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config {C:/Users/ahmet/Desktop/4.sýnýf/Digital System Design/Sort_Memory_Separate/memory_unit_behav.wcfg}
+source tb.tcl
+relaunch_sim
+close_sim
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+set_property part xc7z020clg484-3 [current_project]
+set_property dataflow_viewer_settings "min_width=16"   [current_fileset]
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+reset_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1

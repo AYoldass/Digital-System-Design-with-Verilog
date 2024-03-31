@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../GCD.srcs/sources_1/new/gcd.v" \
+"../../../../GCD.srcs/sources_1/new/gcd_control.v" \
+"../../../../GCD.srcs/sources_1/new/gcd_datapath.v" \
+"../../../../GCD.srcs/sources_1/new/memory.v" \
+"../../../../GCD.srcs/sources_1/new/sort.v" \
+"../../../../GCD.srcs/sim_1/new/testhbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

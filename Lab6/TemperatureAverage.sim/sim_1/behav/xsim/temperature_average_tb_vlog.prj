@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../TemperatureAverage.srcs/sources_1/new/temp_averager.v" \
+"../../../../TemperatureAverage.srcs/sim_1/new/temperature_average_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

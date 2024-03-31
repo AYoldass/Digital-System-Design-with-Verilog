@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/ahmet/Desktop/4.sýnýf/Digital System Design/Digital System Design/GCD/GCD.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/ahmet/Desktop/4.sýnýf/Digital System Design/Digital System Design/GCD/GCD.srcs/sim_1/new/testhbench.v,1703537778,verilog,,,,gcdtest,,,,,,,,
+C:/Users/ahmet/Desktop/4.sýnýf/Digital System Design/Digital System Design/GCD/GCD.srcs/sources_1/new/gcd.v,1703537598,verilog,,C:/Users/ahmet/Desktop/4.sýnýf/Digital System Design/Digital System Design/GCD/GCD.srcs/sources_1/new/gcd_control.v,,gcd,,,,,,,,
+C:/Users/ahmet/Desktop/4.sýnýf/Digital System Design/Digital System Design/GCD/GCD.srcs/sources_1/new/gcd_control.v,1703537567,verilog,,C:/Users/ahmet/Desktop/4.sýnýf/Digital System Design/Digital System Design/GCD/GCD.srcs/sources_1/new/gcd_datapath.v,,gcd_control,,,,,,,,
+C:/Users/ahmet/Desktop/4.sýnýf/Digital System Design/Digital System Design/GCD/GCD.srcs/sources_1/new/gcd_datapath.v,1703537505,verilog,,C:/Users/ahmet/Desktop/4.sýnýf/Digital System Design/Digital System Design/GCD/GCD.srcs/sources_1/new/memory.v,,gcd_datapath,,,,,,,,
+C:/Users/ahmet/Desktop/4.sýnýf/Digital System Design/Digital System Design/GCD/GCD.srcs/sources_1/new/memory.v,1704123801,verilog,,C:/Users/ahmet/Desktop/4.sýnýf/Digital System Design/Digital System Design/GCD/GCD.srcs/sources_1/new/sort.v,,memory,,,,,,,,
+C:/Users/ahmet/Desktop/4.sýnýf/Digital System Design/Digital System Design/GCD/GCD.srcs/sources_1/new/sort.v,1703537454,verilog,,C:/Users/ahmet/Desktop/4.sýnýf/Digital System Design/Digital System Design/GCD/GCD.srcs/sim_1/new/testhbench.v,,sort,,,,,,,,

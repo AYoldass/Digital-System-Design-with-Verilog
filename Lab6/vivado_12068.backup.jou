@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Mon Dec 11 12:20:10 2023
+# Process ID: 12068
+# Current directory: C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14508 C:\Users\ahmet\Desktop\Digital System Design\TemperatureAverage\TemperatureAverage.xpr
+# Log file: C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage/vivado.log
+# Journal file: C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage\vivado.jou
+# Running On: DESKTOP-VTDBCS3, OS: Windows, CPU Frequency: 1190 MHz, CPU Physical cores: 4, Host memory: 8345 MB
+#-----------------------------------------------------------
+start_gopeopen_project {C:/Users/ahmet/Desktop/Digital System Design/TemperatureAverage/TemperatureAverage.xpupdupdate_compile_order -fileset sources_1
